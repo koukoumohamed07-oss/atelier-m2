@@ -1,0 +1,13 @@
+Atelier M2 - site web
+Ouvrir index.html dans un navigateur ou le mettre en ligne chez un hebergeur (Netlify, Vercel, OVH...).
+Admin : lien "Admin" en bas du site.
+  mohamed koukou / mifa-m2026
+  mina belkonso  / mifa-n2026
+(changez les mots de passe dans Admin > Acces)
+
+A savoir :
+- Version autonome : les donnees (photos, clients, devis) restent dans le navigateur de la personne qui modifie le site.
+- La connexion Admin est verifiee dans le navigateur : ce n'est pas une vraie securite. Pour un site public
+  avec reception des demandes clients, il faut ajouter un petit serveur.
+- Le PDF des devis necessite internet (jsPDF).
+- Admin > Contacts : renseignez Tel, WhatsApp, Email, ICE, RC et RIB (ICE/RC/RIB s'impriment sur les devis).
